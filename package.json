@@ -1,0 +1,13 @@
+{
+  "name": "svg-to-rn",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "svgr --config-file .svgrrc.js -- svg"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@svgr/cli": "^6.1.1"
+  }
+}
